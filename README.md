@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm @Diamond_h4
 
-<!--
-**Diamondh4/Diamondh4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Banner](https://img.shields.io/badge/self--taught-developer-darkgreen?style=for-the-badge&logoColor=white)
 
-Here are some ideas to get you started:
+Welcome to my GitHub! I'm a self-taught part-time developer with a passion for building custom projects—sometimes open source, always curious.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Languages & Tools
+
+![Lua](https://img.shields.io/badge/Lua-darkgreen?style=flat-square&logo=lua&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-darkgreen?style=flat-square&logo=javascript&logoColor=white)
+![React](https://img.shields.io/badge/Learning-React-darkgreen?style=flat-square&logo=react&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Learning-TailwindCSS-darkgreen?style=flat-square&logo=tailwindcss&logoColor=white)
+
+## 🚀 Projects
+
+- 🛠️ I love working on custom projects, tackling new challenges, and occasionally contributing to open source.
+
+> **Current Focus:** Improving my skills with React and TailwindCSS.
+
+---
+
+<div align="center">
+  <sub style="color:darkgreen;">Thanks for stopping by! Feel free to explore my repositories.</sub>
+</div>
